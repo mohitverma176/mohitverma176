@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h5 >I am a Web Developer who loves building impactful projects and constantly learning.</h5>
+<h4 >I am a Web Developer who loves building impactful projects and constantly learning.</h4>
 <img align="right" alt="Coding" width="180" src="https://github.com/mohitverma176/mohitverma176/blob/main/my.gif">
 
 
