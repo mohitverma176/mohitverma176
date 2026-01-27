@@ -48,7 +48,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/mohit-verma-71714637b/](https://www.linkedin.com/in/mohit-verma-71714637b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bq41XcTurTuKIOrCtaVMBZw%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-verma-71714637b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bq41XcTurTuKIOrCtaVMBZw%3D%3D" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
