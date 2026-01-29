@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30"/> I'm Mohit
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30"/> I'm Mohit Verma
 </h1>
 
 <p align="center">
