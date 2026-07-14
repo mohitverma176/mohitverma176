@@ -10,15 +10,17 @@
 
 ---
 
-## 👨‍💻 About Me  
+### 👋 About Me  
 
-<img align="right" alt="Coding" width="200" hspace="40"
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://github.com/mohitverma176/mohitverma176/blob/main/my1.gif">
 
-- 💡 I am a **Web Developer** passionate about building clean & responsive websites  
-- 🌱 Currently learning **modern frontend frameworks & best practices**  
-- 🎯 Goal: Become a **high-impact Full Stack Web Developer**  
-- ⚡ Passionate about solving problems and turning ideas into real-world products  
+
+
+- 💡 I am a **Web Developer** passionate about building responsive, user-friendly, and AI-powered web applications.
+- 🌱 Currently learning **Full Stack Development, Backend Technologies, and AI Integration**.
+- 🚀 Building projects using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**.
+- 🎯 Goal: Become a **Full Stack Developer** who builds scalable, real-world solutions.
+- ⚡ Passionate about problem-solving, continuous learning, and turning ideas into impactful products.
 
 <br clear="right"/>
 
