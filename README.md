@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+JavaScript+%7C+React;Building+AI-Powered+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+JavaScript+%7C+React;Building+AI-Powered+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
@@ -27,9 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,tailwind,bootstrap,react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
 
 ---
@@ -40,7 +38,7 @@
 
 AI-powered academic management platform that helps teachers manage students, analyze academic performance, track attendance, manage assignments, and provide personalized AI-powered study recommendations.
 
-**Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, JWT, Nodemailer
+**Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express.js, Nodemailer
 
 <p>
 <a href="https://eduadvisorai36164.netlify.app/">
@@ -58,7 +56,7 @@ AI-powered academic management platform that helps teachers manage students, ana
 
 A responsive movie discovery web application that allows users to search for movies, explore trending titles, view ratings, release dates, genres, and detailed movie information through a modern and intuitive interface.
 
-**Tech Stack:** HTML, CSS, JavaScript, React, TMDB API
+**Tech Stack:** HTML, CSS, JavaScript, React,  API
 
 <p>
 <a href="https://my-movie-spot-app.vercel.app/">
@@ -84,7 +82,7 @@ Developed a full-stack e-commerce platform with secure user authentication, prod
 ### 🌦️ Weather App
 Built a responsive weather application that displays real-time weather conditions, temperature, humidity, wind speed, and forecasts using a weather API.
 
-**Tech Stack:** HTML, CSS, JavaScript, REST API
+**Tech Stack:** HTML, CSS, JavaScript, API
 
 ---
 
@@ -113,25 +111,6 @@ Built multiple JavaScript mini projects, including a Color Changer, Calculator, 
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitverma176&theme=github-dark"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitverma176&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 ## 🎯 Current Focus
 
@@ -155,15 +134,11 @@ Built multiple JavaScript mini projects, including a Color Changer, Calculator, 
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://https://www.geeksforgeeks.org/profile/mohitveridhz/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:mohitverma1766@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
