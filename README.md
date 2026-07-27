@@ -3,60 +3,184 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Focused+🚀;HTML+CSS+JavaScript;Building+Clean+UI+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+JavaScript+%7C+React;Building+AI-Powered+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
 
 ---
 
-### 👋 About Me  
+## 👋 About Me
 
 <img align="right" alt="Coding" width="350" src="https://github.com/mohitverma176/mohitverma176/blob/main/my1.gif">
 
-
-
-- 💡 I am a **Web Developer** passionate about building responsive, user-friendly, and AI-powered web applications.
-- 🌱 Currently learning **Full Stack Development, Backend Technologies, and AI Integration**.
-- 🚀 Building projects using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**.
-- 🎯 Goal: Become a **Full Stack Developer** who builds scalable, real-world solutions.
-- ⚡ Passionate about problem-solving, continuous learning, and turning ideas into impactful products.
+- 💻 Computer Science student passionate about **Full Stack Development** and **Artificial Intelligence**.
+- 🚀 Building scalable and AI-powered web applications using modern technologies.
+- 🌱 Currently learning **Backend Development, System Design, and AI Integration**.
+- 💡 Interested in creating real-world solutions through technology.
+- ⚡ Strong believer in continuous learning and problem solving.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack  
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
----
-
-## 📂 Featured Projects  
-
-🔹 **Weather Website**  
-> Fully responsive weather application built with HTML, CSS & Tailwind  
-
-👉 *More projects coming soon…*
-
----
-
-## 🌐 Connect With Me  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-verma-71714637b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bq41XcTurTuKIOrCtaVMBZw%3D%3D" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode"/>
+
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+## 🚀 Featured Projects
 
-⭐ **If you like my work, consider starring my repositories!**
+### 🎓 EduAdvisor AI
+
+AI-powered academic management platform that helps teachers manage students, analyze academic performance, track attendance, manage assignments, and provide personalized AI-powered study recommendations.
+
+**Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, JWT, Nodemailer
+
+<p>
+<a href="https://eduadvisorai36164.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohitverma176/eduadvisor-ai" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🎬 Movie App
+
+A responsive movie discovery web application that allows users to search for movies, explore trending titles, view ratings, release dates, genres, and detailed movie information through a modern and intuitive interface.
+
+**Tech Stack:** HTML, CSS, JavaScript, React, TMDB API
+
+<p>
+<a href="https://my-movie-spot-app.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohitverma176/My-Movie-SpotApp" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+---
+
+## 💼 Additional Projects
+
+### 🛒 MERN E-Commerce Website
+Developed a full-stack e-commerce platform with secure user authentication, product management, shopping cart, order processing, and responsive user interface.
+
+**Tech Stack:** MongoDB, Express.js, React, Node.js
+
+---
+
+### 🌦️ Weather App
+Built a responsive weather application that displays real-time weather conditions, temperature, humidity, wind speed, and forecasts using a weather API.
+
+**Tech Stack:** HTML, CSS, JavaScript, REST API
+
+---
+
+### 🎨 JavaScript Mini Projects
+
+Built multiple JavaScript mini projects, including a Color Changer, Calculator, Digital Clock, AI Chat Bot, To-Do List, and Stopwatch & Timer, showcasing strong skills in JavaScript, DOM manipulation, and interactive web development.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohitverma176&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohitverma176&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohitverma176&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitverma176&theme=github-dark"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitverma176&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🌐 Building scalable Full Stack applications
+- 🤖 Developing AI-powered web applications
+- 📚 Strengthening Data Structures & Algorithms
+- ⚡ Exploring Backend Development & System Design
+- 🚀 Preparing for Software Engineering Internships & GSoC
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohit-verma-71714637b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mohitverma176">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohitverma176&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h2 align="center">⭐ Thanks for visiting my profile!</h2>
+
+<p align="center">
+I'm passionate about building impactful full-stack applications, integrating AI into real-world products, solving challenging problems through Data Structures & Algorithms, and continuously learning modern technologies. Feel free to explore my repositories, collaborate on exciting projects, or connect with me!
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
